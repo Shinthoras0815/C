@@ -54,3 +54,4 @@ dkms.conf
 /include
 highscores.txt
 Snake_Game.zip
+/ncurses
