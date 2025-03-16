@@ -1,6 +1,3 @@
-Sure, here is the updated README in English with the additional note:
-
-
 # Snake Game
 
 A simple Snake game programmed in C using SDL2 and SDL2_ttf.
