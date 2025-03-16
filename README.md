@@ -2,6 +2,8 @@
 
 A simple Snake game programmed in C using SDL2 and SDL2_ttf.
 
+[Snake_Web](https://shinthoras0815.github.io/C/Snake_Web/snake_game_web.html) is my Snake code modified and converted to run in the browser using WebAssembly and Emscripten
+
 ## Requirements
 
 - GCC Compiler
